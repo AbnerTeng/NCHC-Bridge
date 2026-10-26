@@ -1,0 +1,4 @@
+interface:
+  display_name: "NCHC Bridge"
+  short_description: "Sync local code and manage remote GPU training"
+  default_prompt: "Use $nchc-bridge to prepare this project for remote GPU training, transfer its source, and manage the requested run."
